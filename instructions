@@ -1,0 +1,11 @@
+Thor (thor.enseirb-matmeca.fr/ruby) => binome
+GIT => pull, push
+Si on a probleme contacter Romain TAJAN
+
+2-PAM, QPSK => modulation sous environment MATLAB
+		- constrution du modele: TX->canal->RX
+		- analyse des different signaux
+			* temporel
+			* spectral
+			* diagramme de l'oeil
+			* T = R = f(SNT) 
